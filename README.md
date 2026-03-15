@@ -1,3 +1,10 @@
+
+<p align="center">
+  <a href="https://gemini.google.com/">
+    <img src="https://img.shields.io/badge/Made%20with-Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white" alt="Made with Gemini">
+  </a>
+</p>
+
 # LiteGraph-MCP: An Industrial-Grade Knowledge Graph MCP Server
 
 LiteGraph-MCP is a zero-infrastructure, high-performance Knowledge Graph Retrieval-Augmented Generation (GraphRAG) server designed specifically for AI Agents (via the Model Context Protocol - MCP). 
